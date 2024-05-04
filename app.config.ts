@@ -4,7 +4,7 @@ export default defineAppConfig({
   host: "notes.aronchaves.com",
 
   author: {
-    twitter: "redacted",
+    twitter: "otrovamors",
   },
 
   publishing: {
